@@ -75,14 +75,6 @@
 
 ![myreview](README.assets/myreview.gif)
 
-✨ **일본어 단어장**
-
-![myvoca](README.assets/myvoca.gif)
-
-✨ **회원정보 변경**
-
-![changeInfo](README.assets/changeInfo.gif)
-
 ---
 
 #### 메인페이지
@@ -114,6 +106,10 @@
 
 ## 06 기술 특이점
 ---
+회원가입시 메일 인증 구현
+Spring Security + JWT를 활용한 회원 인증 및 관리
+Jenkins를 활용한 CI, CD
+Docker와 Docker-compose로 컨테이너화
 
 ## 07 협업 툴
 
