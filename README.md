@@ -105,6 +105,7 @@
 - docker-compose 2.1.0
 - mysql 5.7
 - nginx 1.23.1
+- 
 
 📌 **CI/CD**
 
